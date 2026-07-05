@@ -7,6 +7,7 @@ aria2p
 asyncio
 beautifulsoup4
 cinemagoer
+SQLAlchemy<2.0.0
 cloudscraper
 cryptography
 dnspython
