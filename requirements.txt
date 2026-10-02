@@ -37,7 +37,8 @@ pybase64
 pycountry
 pycryptodome
 pymongo
-pyrofork==2.3.69
+#pyrofork==2.3.69
+wzgram
 python-dotenv
 python-magic
 pytz
